@@ -12,7 +12,7 @@ VIT BHOPAL UNIVERSITY - 2029
 🧠 Learning Data Structures & Algorithms
 📱 Exploring React Native
 🖥 Practicing server deployment with Ubuntu & Node.js
-🎯 Goal: 60+ LPA first job
+
 🛠 Tech Stack
 
 Languages
@@ -49,14 +49,10 @@ Backend Architecture
 Distributed Systems
 Advanced SQL
 React Native
-📈 GitHub Stats
 
-⚡ Fun Facts
-🏋️ Lift heavy (180kg deadlift at 70kg bodyweight)
-🥊 Interested in MMA & combat sports
-🎯 Believe in consistency over motivation
 📫 Connect With Me
 GitHub: https://github.com/ArjunAgnihotri
-LinkedIn: (add your linkedin here)
+LinkedIn: https://www.linkedin.com/in/arjunagni/
+Email: arjunagnihotrikanpur@gmail.com
 
 ⭐ Always building. Always learning.
